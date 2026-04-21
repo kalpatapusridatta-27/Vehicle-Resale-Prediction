@@ -17,7 +17,7 @@ This project predicts the resale value of vehicles using machine learning techni
 ## Run the Project
 Click below to open in Colab:
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/kalpatapusridatta-27/Vehicle-Resale-Prediction/blob/main/vehicle_resale_prediction.ipynb)
+(https://colab.research.google.com/github/kalpatapusridatta-27/Vehicle-Resale-Prediction/blob/main/dashboard_py.ipynb)
 
 ## Author
 Sridatta Kalpatapu
